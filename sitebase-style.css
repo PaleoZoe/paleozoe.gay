@@ -74,8 +74,8 @@ h1, h2, h3, h4, h5 {
   margin: 3em auto;
   width: 90%;
 	max-width: 700px;
-	background-color: #008080;
-  color: #222222; 
+	background-color: #a7efc5;
+  color: #4a4747; 
   outline-color: #CCC;
   outline-style: ridge;
   outline-width: 4px;
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5 {
 #header {
   position: relative;
   text-align:center;
-  background-color: #383d4b;
+  background-color: #afc1f0;
   padding: 0 5%;
   border-color: #CCC;
   border-style: ridge;
