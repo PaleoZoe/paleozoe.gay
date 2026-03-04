@@ -95,6 +95,17 @@ q {
   display: inline;
 }
 
+#spoil {
+  background-color: black;
+  color: black;
+  transition: color 0.2s, background-color 0.2s;
+  cursor: pointer;
+}
+
+#spoil:hover {
+  color: inherit;
+  background-color: inherit;
+}
 
 /*HEADER STYLE*/
 #header {
